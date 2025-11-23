@@ -1,2 +1,6 @@
 # Journal-Entry-Rest-API
-A Journal entry Rest API built using Springboot with Auth, which allows users to store their journals with title and content in database and retrieve when required.
+**HOW TO USE :**
+1. Make sure to have jvm/jdk installed on you'r device.
+2. Download/Run the file on your system using terminal/code editors.
+3. Open postman and hit the API endpoints (with Auth when required)to interact with the DB.
+
